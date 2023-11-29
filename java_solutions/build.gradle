@@ -32,5 +32,5 @@ java {
 
 application {
     // Define the main class for the application.
-    mainClass = 'leetcode_solutions.App'
+    mainClass = 'leetcode_solutions._150.MergeSortedArray88'
 }
