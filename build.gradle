@@ -1,8 +1,3 @@
-plugins {
-    id 'com.pswidersk.python-plugin' version "2.4.0"
-    id 'application'
-}
-
 // Common configurations for both Python and Java modules
 allprojects {
     group = 'make.wolfy.practice'
