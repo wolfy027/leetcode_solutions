@@ -1,3 +1,7 @@
 plugins {
     id 'com.pswidersk.python-plugin' version "2.4.0"
 }
+
+pythonPlugin {
+    pythonVersion.set("3.11")
+}
